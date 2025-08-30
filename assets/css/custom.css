@@ -1,0 +1,245 @@
+@media only screen  and (max-width: 1499px) {
+.tj-slider-item .slider-content .slider-title {
+    font-size: 50px;
+	line-height:60px;
+}
+.tj-slider-section {
+    padding: 30px 15px 0 15px;
+}
+h2.sec-title.title-highlight {
+    font-size: 45px;
+    line-height: 55px;
+}.experience-year {
+    font-size: 160px;
+}.service-item.style-3 .title {
+    font-size: 25px;
+    line-height: 33px;
+}.choose-box .desc {
+    font-size: 16px;
+}.about-bottom-area-2 {
+    width: 100%;
+}.about-content-area.style-2 {
+    padding: 35px 0 35px 31px;
+    width: 100%;
+}.sec-heading .sec-title {
+    font-size: 39px;
+    line-height: 49px;
+}.company-logo {
+    width: 130px;
+    height: 130px;
+}.company-logo img {
+    max-width: 70px;
+}.about-contentpara {
+    width: 93%;
+}.about-content-area .sec-heading {
+    margin-bottom: 28px;
+}.about-content-area.style-2 .sec-heading .sub-title {
+    margin-bottom: 13px;
+}.about-content-area.style-2 .sec-heading .sec-title br {
+    display: none;
+}.mission-vision-box {
+    padding: 20px 30px;
+    margin-bottom: 15px;
+}.mission-vision-box .desc {
+    font-size: 15px;
+    line-height: 25px;
+}.mission-vision-box .title {
+    margin-bottom: 10px;
+    font-size: 19px;
+}.contact-item.style-2 .contact-title {
+    font-size: 20px;
+    font-weight: 400;
+}.site_logo img {
+    max-width: 165px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+    
+}
+
+@media only screen  and (max-width: 1399px) {
+.services-inner-content p {
+    font-size: 15px;
+    line-height: 25px;
+}.services-inner-content  .sec-heading {
+    margin-bottom: 15px;
+}.choose-box .title {
+    max-width: fit-content;
+    margin-bottom: 16px;
+    font-size: 20px;
+}.choose-box .choose-inner {
+    padding: 35px 17px;
+}.choose-box .desc {
+    font-size: 15px;
+}.tj-faq .accordion-item .faq-title {
+    font-size: 16px;
+    font-weight: 400;
+}.tj-faq .accordion-item .accordion-body p{
+    font-size: 16px;
+}    .about-content-area.style-2 {
+        padding: 28px 0 28px 25px;
+    }    .about-content-area .sec-heading {
+        margin-bottom: 17px;
+    }    .about-content-area.style-2 .sec-heading .sub-title {
+        margin-bottom: 9px;
+    }    .mission-vision-box {
+        padding: 17px 30px;
+        margin-bottom: 13px;
+    }
+}
+
+@media only screen  and (max-width: 599px) {
+	    .site_logo img {
+        max-width: 150px;
+
+		}.video video {
+    height: auto;
+}.hero-pagination {
+    bottom: 24px !important;
+}.tj-slider-item .slider-content .sub-title{
+	display:none;
+}.tj-slider-item .slider-content {
+    bottom: 13%;
+    width: 100%;
+    left: 6%;
+}.tj-slider-item .slider-content .slider-title br{
+	display:none;
+}
+	.tj-choose-section {
+    background-image: none;
+	}.choose-box .count-icon {
+    background-color: #350d66;
+	}.choose-box .count-icon::after, .choose-box .count-icon::before {
+    box-shadow: 12px 0 0 0 #350d66;
+	}    .about-img-area {
+        width: 100%;
+	}    .cta-area .cta-img {
+        max-width: 95px;
+        right: 0%;
+        bottom: 0;
+    }    .widget-nav-menu.footer-col-3, .widget-nav-menu.footer-col-2,     .widget-nav-menu.footer-col-3 {
+        margin-top: 13px;
+	}
+.tj-slider-section {
+           margin: 0;
+        padding: 0;
+}h2.sec-title.title-highlight {
+    font-size: 30px;
+    line-height: 40px;
+	width:100%;
+}h2.sec-title.title-highlight br{
+    display:none;
+}.experience-year {
+    font-size: 95px;
+}.experience-text {
+    font-size: 15px;
+    padding-left: 2%;
+}.about-bottom-area-3 .about-content {
+    padding: 20px 0 0 0;
+}.service-item.style-3 .service-content {
+    margin-bottom: 20px;
+    padding-inline-start: 15px;
+}.tj-choose-section .sec-heading .sec-title {
+    font-size: 30px;
+    line-height: 40px;
+}.tj-banner-section {
+    padding-top: 0;
+}.sec-pad {
+    padding: 30px 0px;
+}.banner-content-area {
+    padding: 25px 0;
+}    .banner-content .banner-title {
+        font-size: 30px;
+        width: 100%;
+        line-height: 42px;
+    }    .banner-highlight {
+        margin-top: 0px;
+    }.about-content-area.style-2 {
+    padding: 20px 0 30px 20px;
+}.tj-countup-section .sec-heading .sec-title br, .cta-area .cta-content .title br{
+	display:none;
+}.cta-area .cta-content .title {
+        font-size: 30px;
+		    width: 100%;
+}.footer-main-area {
+        padding: 40px 0px;
+}.copyright-content-area .copyright-menu{
+		display:none;
+}.copyright-content-area {
+        padding-bottom: 0;
+}.tj-page-header {
+        margin: 0;
+        border-radius: 0;
+}.tj-page-header {
+    padding-top: 150px;
+    padding-bottom: 40px;
+}.tj-page-title {
+    font-size: 29px;
+}.sec-heading .sec-title {
+    font-size: 30px;
+    line-height: 40px;
+}.row-gap-5 {
+    row-gap: 0rem !important;
+}.countup-item.style-2 {
+    padding-bottom: 30px;
+}.inline-content {
+    font-size: 40px;
+    line-height: 1;
+}.paralax-content h1 {
+    font-size: 35px;
+    line-height: 45px;
+}.paralax {
+    padding: 130px 0;
+}.services-inner img {
+    padding-bottom: 10px;
+}.desk{
+	display:none  !important;
+}.mob{
+	display:block !important;
+}.tj-slider-item .slider-content .slider-title {
+        font-size: 35px;
+        line-height: 45px;
+}.tj-slider-item {
+        height: auto;
+}.swiper-slide .slider-content .sub-title{
+		display:none;
+}.tj-slider-item .slider-content .slider-btn .tj-primary-btn{
+		display:none;
+}.header-area.header-3.header-absolute  {
+    top: 0px;
+}
+}
+	
+@media only screen  and (max-width: 399px) {
+	.about-content-area .sec-heading .sec-title br{
+		display:none;
+	}    .sec-heading .sec-title {
+        font-size: 28px;
+	}    .footer-widget .title {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }    .widget-nav-menu.footer-col-3 {
+        margin-top: 15px;
+	}    .widget-nav-menu.footer-col-3, .widget-nav-menu.footer-col-2 {
+        margin-top: 15px;
+	}    .footer-main-area {
+        padding: 30px 0px;
+    }.footer-logo {
+    max-width: 135px;
+	}.sec-heading .sec-title br{
+	display:none;
+	}p {
+    font-size: 16px;
+    line-height: 27px;
+	}.sec-heading {
+        margin-bottom: 10px;
+    }    .tj-slider-item .slider-content .slider-title {
+        font-size: 30px;
+        line-height: 40px;
+		margin-bottom: 10px;
+    }.hero-pagination{
+		display:none;
+	}.about-content-area .sec-heading .sub-title {
+    margin-bottom: 20px;
+	}
+	}
